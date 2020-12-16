@@ -1,0 +1,15 @@
+@CHARSET "ISO-8859-1";
+.header{
+	width:100%;
+	text-align:center;
+	background-color: #3297a8;
+	color:white;
+}
+td
+{
+	background-color:lightblue;
+}
+
+#myTable{
+	width:75%;
+}
