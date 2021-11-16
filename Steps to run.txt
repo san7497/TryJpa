@@ -1,5 +1,4 @@
 Build Command - mvn clean install
 
 Run Command - java -jar target/round_one-0.0.1-SNAPSHOT.jar
-
 Test - Url - http://localhost:8080/index.html
